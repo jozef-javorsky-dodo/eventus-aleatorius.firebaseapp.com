@@ -1,0 +1,16 @@
+#html-body-footer-address {
+  margin-left: 34vw !important;
+  font-family: cursive !important;
+  font-weight: 900 !important;
+  font-size: 1vw !important;
+  margin-top: 3vh !important;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: rgb(0, 0, 0) !important;
+  text-decoration: none !important;
+}

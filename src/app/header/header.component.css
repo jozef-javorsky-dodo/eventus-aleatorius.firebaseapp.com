@@ -1,0 +1,18 @@
+* {
+  user-select: none !important;
+}
+
+#html-body-header-h1 {
+  font-family: cursive !important;
+  font-weight: 900 !important;
+  font-size: 2vw !important;
+  border: 1vw solid rgb(0, 0, 0) !important;
+  display: inline-block !important;
+  padding: 0 !important;
+  border-radius: 3vw !important;
+  box-shadow: 0 0 1vh 1vh rgb(220, 220, 100) !important;
+  background-color: rgb(0, 0, 0) !important;
+  color: rgb(150, 200, 150) !important;
+  margin-top: 4vh !important;
+  margin-left: 35vw !important;
+}
